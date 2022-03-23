@@ -1,6 +1,8 @@
 # Refactor-Challenge-
 Completed files for week 1 Challenge 
 
+# Refactor existing HTML and CSS for Marketing Website.
+
 
 # Week 1 Challenge 
 
@@ -35,7 +37,7 @@ Made the HTML compliant with Accesibility standards by adding semantic elements 
 
 provided structure to the differnt HTML elments and parts. 
 ##Review
+
 The following is the URL for the webpage
 
-
-file:///Users/bearstuff/Desktop/HomeWork/index.html
+ https://perozoabreu.github.io/Refactor-Challenge-/ 
